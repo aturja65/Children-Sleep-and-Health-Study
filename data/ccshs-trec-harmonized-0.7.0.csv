@@ -1,0 +1,518 @@
+nsrrid,visit,nsrr_age,nsrr_age_gt89,nsrr_sex,nsrr_race,nsrr_ethnicity,nsrr_bmi,nsrr_bp_systolic,nsrr_bp_diastolic,nsrr_current_smoker,nsrr_ever_smoker,nsrr_ahi_hp3u,nsrr_ahi_hp3r_aasm15,nsrr_ahi_hp4u_aasm15,nsrr_ahi_hp4r,nsrr_ttldursp_f1,nsrr_phrnumar_f1,nsrr_flag_spsw
+1800001,3,17.21,no,female,white,not hispanic or latino,19.0897164,108.00,59.67,no,no,0.24,0.24,0.12,0.12,490.00,6.37,full scoring
+1800005,3,17.28,no,male,white,not hispanic or latino,29.3385842,128.67,82.33,no,no,0.24,0.24,0.12,0.24,501.00,5.87,full scoring
+1800007,3,17.54,no,male,black or african american,not hispanic or latino,35.8975640,128.33,61.33,no,no,1.85,1.85,1.69,1.69,390.00,8.46,full scoring
+1800013,3,17.76,no,male,white,not hispanic or latino,21.1769864,104.67,64.67,no,no,0.11,0.11,0.11,0.11,528.00,4.66,full scoring
+1800014,3,17.13,no,female,black or african american,not hispanic or latino,33.5878529,117.67,73.33,no,no,1.90,2.54,1.16,2.01,568.00,6.97,full scoring
+1800018,3,17.68,no,male,white,not hispanic or latino,20.3857552,117.33,79.67,no,no,0.12,0.12,0.00,0.00,500.00,3.36,full scoring
+1800020,3,17.27,no,male,white,not hispanic or latino,35.5952015,104.00,67.67,no,no,3.81,3.93,0.90,1.01,535.00,6.17,full scoring
+1800021,3,17.52,no,male,white,not hispanic or latino,25.5900685,132.33,58.67,no,no,1.72,2.58,0.29,2.01,209.00,8.61,full scoring
+1800022,3,18.02,no,male,black or african american,not hispanic or latino,17.6231251,112.33,68.67,yes,yes,2.43,2.66,1.74,2.32,518.00,7.64,full scoring
+1800023,3,17.68,no,male,white,not hispanic or latino,26.9785693,108.67,57.33,no,no,15.26,20.40,10.88,17.68,397.00,17.98,full scoring
+1800024,3,18.13,no,male,white,not hispanic or latino,22.9470398,124.67,64.00,no,no,2.31,2.44,1.16,1.28,467.00,6.55,full scoring
+1800027,3,18.31,no,male,black or african american,not hispanic or latino,20.0330390,103.67,66.00,no,no,0.34,0.34,0.23,0.23,525.00,2.17,full scoring
+1800030,3,17.62,no,male,white,not hispanic or latino,29.0377751,108.00,64.00,no,no,1.24,1.69,0.34,1.02,532.00,6.77,full scoring
+1800031,3,18.25,no,male,white,not hispanic or latino,25.1802115,117.67,62.00,yes,yes,3.74,5.49,1.87,4.24,481.00,11.35,full scoring
+1800032,3,18.34,no,female,white,not hispanic or latino,20.9313220,110.67,65.67,no,yes,1.43,1.43,1.07,1.07,505.00,3.92,full scoring
+1800033,3,18.45,no,female,black or african american,not hispanic or latino,21.9732727,111.33,60.33,no,no,0.82,0.82,0.71,0.82,510.00,10.24,full scoring
+1800034,3,17.40,no,female,white,not hispanic or latino,19.1843677,101.67,50.33,no,no,0.15,0.15,0.00,0.15,405.00,6.37,full scoring
+1800036,3,18.36,no,male,black or african american,not hispanic or latino,29.4689447,131.67,69.67,no,no,0.41,0.55,0.27,0.41,437.00,7.69,full scoring
+1800038,3,17.40,no,female,white,not hispanic or latino,22.0951611,103.33,65.33,no,no,0.00,0.00,0.00,0.00,440.00,8.45,full scoring
+1800039,3,17.31,no,female,black or african american,not hispanic or latino,23.4173480,112.67,74.67,no,no,1.75,2.00,0.38,0.88,480.00,4.13,full scoring
+1800042,3,17.45,no,male,white,not hispanic or latino,21.6048426,124.00,62.00,no,no,0.28,0.28,0.28,0.28,422.00,5.26,full scoring
+1800044,3,17.24,no,female,white,not hispanic or latino,24.7249901,111.00,78.00,no,no,0.84,0.98,0.84,0.98,428.00,8.69,full scoring
+1800045,3,18.02,no,male,white,not hispanic or latino,27.1925612,130.00,67.33,no,no,2.29,2.80,0.89,2.04,471.00,8.15,full scoring
+1800047,3,17.26,no,female,white,not hispanic or latino,18.7157028,113.00,59.00,no,no,1.88,2.42,1.74,2.42,447.00,8.05,full scoring
+1800048,3,17.34,no,female,white,not hispanic or latino,30.3471107,105.33,58.00,no,no,0.52,0.52,0.26,0.39,462.00,4.29,full scoring
+1800049,3,17.70,no,female,white,not hispanic or latino,18.9580194,104.00,60.00,no,no,0.00,0.00,0.00,0.00,361.00,8.31,full scoring
+1800050,3,17.18,no,female,white,not hispanic or latino,19.3570998,114.00,59.33,no,no,0.58,0.81,0.23,0.70,517.00,9.86,full scoring
+1800051,3,17.11,no,female,white,not hispanic or latino,24.0047378,107.67,60.33,no,no,0.24,0.24,0.12,0.24,500.00,7.92,full scoring
+1800052,3,17.22,no,male,white,not hispanic or latino,23.1441405,120.33,72.33,no,no,2.98,4.47,1.22,3.66,443.00,8.80,full scoring
+1800055,3,17.51,no,female,white,not hispanic or latino,24.5791986,108.67,60.00,no,no,2.86,2.86,1.95,2.06,524.00,8.70,full scoring
+1800059,3,18.26,no,female,black or african american,not hispanic or latino,22.4312953,111.33,63.33,no,no,1.01,1.01,1.01,1.01,473.00,4.82,full scoring
+1800061,3,18.36,no,female,white,not hispanic or latino,21.7176295,123.33,77.33,no,no,0.97,1.09,0.48,0.73,496.00,2.78,full scoring
+1800064,3,17.64,no,male,white,not hispanic or latino,32.2962156,132.00,67.00,no,no,1.03,1.03,0.83,0.83,290.00,8.69,full scoring
+1800065,3,17.68,no,female,white,not hispanic or latino,22.6270720,109.00,61.33,no,no,0.35,0.47,0.23,0.47,513.00,6.32,full scoring
+1800067,3,17.91,no,female,white,not hispanic or latino,19.6983687,99.00,62.33,no,no,0.55,0.76,0.55,0.76,550.00,7.64,full scoring
+1800068,3,17.88,no,male,white,not hispanic or latino,29.5105917,108.67,55.00,no,no,0.60,0.60,0.24,0.36,496.00,4.35,full scoring
+1800070,3,17.62,no,male,white,not hispanic or latino,20.1864709,122.33,48.67,no,no,0.35,1.17,0.12,1.17,511.00,10.22,full scoring
+1800071,3,17.13,no,male,white,not hispanic or latino,20.6037803,117.67,62.67,no,no,0.23,0.35,0.00,0.12,520.00,11.54,full scoring
+1800072,3,17.79,no,female,black or african american,not hispanic or latino,42.1853027,106.00,59.67,no,no,1.04,1.04,0.46,0.58,517.00,4.29,full scoring
+1800074,3,17.86,no,female,multiple,not hispanic or latino,21.1884318,111.33,65.33,no,no,0.25,0.25,0.12,0.25,484.00,4.71,full scoring
+1800075,3,18.64,no,male,white,not hispanic or latino,22.5552373,126.00,65.67,no,no,1.82,3.25,0.26,2.34,461.00,16.14,full scoring
+1800076,3,18.22,no,female,white,not hispanic or latino,32.9247243,113.33,60.33,yes,yes,1.44,1.68,0.60,1.08,499.00,12.38,full scoring
+1800078,3,17.77,no,male,white,not hispanic or latino,24.8111499,122.00,71.67,no,no,4.22,7.97,1.52,7.15,512.00,17.11,full scoring
+1800081,3,17.02,no,male,white,not hispanic or latino,21.3537203,124.33,56.33,no,no,0.30,0.30,0.00,0.15,395.00,6.68,full scoring
+1800082,3,17.33,no,female,black or african american,not hispanic or latino,19.5253634,113.00,69.00,no,no,0.11,0.11,0.00,0.00,560.00,11.25,full scoring
+1800085,3,17.80,no,female,white,not hispanic or latino,21.4496992,99.00,55.00,no,no,0.21,0.21,0.10,0.10,578.00,7.06,full scoring
+1800088,3,17.77,no,male,black or african american,not hispanic or latino,29.4002477,123.33,55.33,no,no,0.13,0.13,0.00,0.00,475.00,7.33,full scoring
+1800089,3,17.82,no,female,white,not hispanic or latino,21.5696013,116.00,63.33,no,no,0.26,0.26,0.26,0.26,466.00,4.64,full scoring
+1800090,3,17.68,no,male,white,hispanic or latino,36.0309592,116.33,57.00,no,no,4.48,5.45,4.48,5.45,495.00,11.64,full scoring
+1800091,3,17.45,no,female,white,not hispanic or latino,23.4023569,108.00,62.67,no,no,0.00,0.00,0.00,0.00,508.00,5.91,full scoring
+1800094,3,18.20,no,male,white,not hispanic or latino,38.3209639,122.00,57.00,not reported,yes,4.03,4.41,2.52,3.03,476.00,6.43,full scoring
+1800095,3,16.88,no,female,black or african american,not hispanic or latino,28.6028400,114.33,69.00,not reported,yes,0.73,0.83,0.63,0.73,575.00,5.22,full scoring
+1800096,3,17.65,no,male,white,not hispanic or latino,21.6400868,118.67,60.67,no,no,0.00,0.24,0.00,0.24,501.00,8.14,full scoring
+1800097,3,17.58,no,male,white,not hispanic or latino,29.0717751,128.33,58.33,no,no,0.45,0.45,0.15,0.45,402.00,6.12,full scoring
+1800098,3,17.64,no,female,black or african american,not hispanic or latino,22.8163942,122.33,50.67,no,no,0.00,0.00,0.00,0.00,476.00,7.56,full scoring
+1800099,3,17.84,no,female,white,not hispanic or latino,28.3092404,105.33,50.00,no,no,0.00,0.12,0.00,0.12,518.00,10.77,full scoring
+1800100,3,17.72,no,female,white,not hispanic or latino,33.2295498,107.67,54.33,no,no,0.24,0.24,0.24,0.24,501.00,7.43,full scoring
+1800101,3,17.41,no,female,white,not hispanic or latino,24.1810045,117.00,69.67,no,no,0.63,1.77,0.38,1.65,474.00,12.91,full scoring
+1800102,3,17.87,no,male,black or african american,not hispanic or latino,33.6614942,118.33,60.00,no,no,0.00,0.17,0.00,0.17,363.00,5.12,full scoring
+1800103,3,17.60,no,male,white,not hispanic or latino,20.7386545,113.67,62.00,not reported,yes,0.23,0.47,0.12,0.35,513.00,4.91,full scoring
+1800106,3,19.38,no,female,white,not hispanic or latino,24.8511878,111.67,58.67,no,no,0.12,0.25,0.12,0.25,487.00,7.39,full scoring
+1800109,3,17.76,no,male,black or african american,not hispanic or latino,31.3359001,124.17,62.67,no,no,2.93,2.93,1.88,1.88,512.00,,sleep/wake only
+1800115,3,18.01,no,female,black or african american,hispanic or latino,26.4715685,104.67,70.33,yes,yes,0.23,0.23,0.11,0.23,527.00,7.06,full scoring
+1800117,3,17.95,no,male,black or african american,not hispanic or latino,20.6904435,105.33,46.33,no,no,2.86,3.00,2.57,2.86,420.00,7.29,full scoring
+1800123,3,17.67,no,male,white,not hispanic or latino,22.3501733,129.00,79.00,no,no,0.92,1.31,0.13,0.53,457.00,9.58,full scoring
+1800126,3,17.31,no,female,white,not hispanic or latino,20.6873814,108.00,68.00,no,yes,1.78,2.34,0.56,1.45,539.00,5.12,full scoring
+1800127,3,17.90,no,male,black or african american,not hispanic or latino,23.3172427,123.00,76.33,no,no,0.63,0.63,0.51,0.51,473.00,4.82,full scoring
+1800129,3,18.17,no,female,white,not hispanic or latino,28.3566562,115.00,68.67,no,no,0.57,0.92,0.23,0.80,523.00,6.54,full scoring
+1800130,3,17.55,no,male,white,not hispanic or latino,34.9005815,117.33,57.33,no,no,1.18,1.63,0.74,1.33,406.00,12.41,full scoring
+1800131,3,17.64,no,male,black or african american,not hispanic or latino,16.4675950,112.00,64.33,no,no,0.24,0.24,0.24,0.24,492.00,7.44,full scoring
+1800132,3,18.61,no,male,white,not hispanic or latino,26.5212370,129.00,61.00,yes,yes,0.64,0.64,0.38,0.51,471.00,7.52,full scoring
+1800137,3,17.50,no,female,black or african american,not hispanic or latino,24.6290957,116.33,65.67,no,no,0.31,0.31,0.15,0.15,388.00,12.37,full scoring
+1800138,3,17.54,no,female,white,not hispanic or latino,26.5596675,123.00,60.00,no,no,1.26,2.14,0.25,1.76,476.00,13.87,full scoring
+1800140,3,17.62,no,female,white,not hispanic or latino,20.4722087,115.33,61.67,no,no,0.59,0.82,0.12,0.35,511.00,5.28,full scoring
+1800142,3,16.90,no,male,multiple,not hispanic or latino,24.7042178,113.67,70.00,yes,yes,0.15,0.46,0.15,0.46,395.00,8.81,full scoring
+1800145,3,18.04,no,male,black or african american,not hispanic or latino,27.8662106,118.00,50.33,no,no,1.47,1.96,0.61,1.23,489.00,5.52,full scoring
+1800146,3,17.68,no,female,black or african american,not hispanic or latino,18.2904047,102.00,57.67,no,no,0.12,0.23,0.00,0.12,521.00,7.95,full scoring
+1800149,3,17.67,no,female,black or african american,not hispanic or latino,40.5790476,126.33,55.00,no,no,2.18,3.68,1.23,3.14,440.00,12.82,full scoring
+1800150,3,17.27,no,female,white,not hispanic or latino,18.6268985,110.33,73.00,no,no,8.97,10.00,6.91,8.38,408.00,11.03,full scoring
+1800153,3,17.81,no,female,white,hispanic or latino,28.4793694,104.67,67.00,no,no,0.65,1.56,0.26,1.30,461.00,5.73,full scoring
+1800155,3,17.78,no,male,white,not hispanic or latino,21.3775253,107.33,64.00,no,no,1.18,1.42,0.71,1.06,508.00,7.56,full scoring
+1800157,3,17.68,no,male,black or african american,not hispanic or latino,22.2141378,121.33,73.67,yes,yes,1.05,1.18,0.65,0.78,459.00,11.63,full scoring
+1800159,3,17.36,no,male,white,not hispanic or latino,23.6777998,111.67,60.33,no,no,0.12,0.47,0.00,0.47,506.00,9.01,full scoring
+1800160,3,18.37,no,male,white,not hispanic or latino,25.3794145,121.67,65.33,no,no,3.19,3.45,1.86,2.92,226.00,10.62,full scoring
+1800161,3,18.72,no,male,white,not hispanic or latino,30.6740755,137.67,76.00,no,no,1.28,1.63,0.82,1.17,514.00,3.97,full scoring
+1800164,3,17.60,no,female,black or african american,not hispanic or latino,21.7940505,113.67,59.33,no,no,1.74,1.97,0.46,1.04,518.00,6.83,full scoring
+1800165,3,18.20,no,female,white,not hispanic or latino,22.0836011,97.67,51.00,no,no,0.41,0.41,0.27,0.41,444.00,10.14,full scoring
+1800166,3,17.97,no,female,white,not hispanic or latino,20.9115733,113.33,69.33,no,no,0.59,0.59,0.47,0.59,510.00,6.71,full scoring
+1800167,3,17.74,no,male,black or african american,not hispanic or latino,19.8077605,127.00,66.00,no,no,0.13,0.13,0.13,0.13,470.00,7.66,full scoring
+1800169,3,17.61,no,male,black or african american,not hispanic or latino,22.4811384,134.33,79.33,no,no,1.50,1.67,0.67,1.33,360.00,9.00,full scoring
+1800174,3,18.87,no,female,white,not hispanic or latino,33.2851761,107.67,67.00,no,no,0.00,0.47,0.00,0.47,508.00,8.15,full scoring
+1800177,3,17.22,no,male,white,not hispanic or latino,24.6204082,115.33,63.00,no,no,0.00,0.00,0.00,0.00,505.00,4.75,full scoring
+1800178,3,17.62,no,male,black or african american,not hispanic or latino,21.8458910,118.67,63.67,no,no,0.30,0.45,0.00,0.15,397.00,6.65,full scoring
+1800180,3,18.10,no,female,white,not hispanic or latino,20.8903516,93.33,60.33,yes,yes,1.48,1.93,0.80,1.59,528.00,12.61,full scoring
+1800181,3,17.81,no,male,white,not hispanic or latino,18.7682819,123.00,67.67,no,no,0.82,0.82,0.59,0.70,511.00,7.40,full scoring
+1800184,3,17.69,no,male,white,not hispanic or latino,24.1379922,124.67,79.67,no,no,0.92,1.02,0.83,1.02,650.00,6.28,full scoring
+1800185,3,17.93,no,female,black or african american,not hispanic or latino,20.6672892,90.33,48.33,no,no,0.11,0.11,0.00,0.00,540.00,6.22,full scoring
+1800186,3,17.21,no,female,white,not hispanic or latino,28.7067204,126.00,63.00,no,no,0.00,0.35,0.00,0.35,346.00,17.86,full scoring
+1800187,3,17.46,no,female,white,not hispanic or latino,19.6390548,111.00,67.67,no,no,0.13,0.27,0.13,0.27,446.00,7.26,full scoring
+1800191,3,17.86,no,male,black or african american,not hispanic or latino,27.1092379,125.33,55.67,no,no,5.52,7.12,1.72,5.40,489.00,13.01,full scoring
+1800192,3,17.86,no,female,black or african american,not hispanic or latino,35.6430426,108.33,53.33,no,no,1.51,1.63,0.88,1.00,478.00,6.03,full scoring
+1800194,3,17.66,no,female,black or african american,not hispanic or latino,21.9124679,100.67,67.00,no,no,0.00,0.00,0.00,0.00,592.00,4.56,full scoring
+1800195,3,18.45,no,female,black or african american,not hispanic or latino,18.3366151,97.67,56.33,no,no,0.46,0.46,0.46,0.46,521.00,6.56,full scoring
+1800197,3,17.49,no,male,white,not hispanic or latino,22.1053047,108.00,67.67,no,no,0.56,0.68,0.34,0.56,531.00,7.01,full scoring
+1800198,3,17.65,no,male,white,not hispanic or latino,24.2689031,116.67,69.00,no,no,0.65,0.87,0.33,0.65,552.00,6.41,full scoring
+1800200,3,17.83,no,male,black or african american,not hispanic or latino,22.1346319,121.00,59.33,no,no,0.12,0.24,0.12,0.24,503.00,6.32,full scoring
+1800202,3,17.23,no,male,multiple,hispanic or latino,32.7389645,132.33,62.33,no,no,0.47,0.95,0.32,0.95,379.00,6.65,full scoring
+1800203,3,17.44,no,female,black or african american,not hispanic or latino,21.4351669,104.33,59.33,no,no,0.58,0.58,0.58,0.58,513.00,5.26,full scoring
+1800204,3,18.17,no,male,multiple,not hispanic or latino,20.0947642,141.00,65.67,no,no,0.71,0.71,0.24,0.71,253.00,6.64,full scoring
+1800206,3,17.64,no,male,white,not hispanic or latino,24.9986407,119.33,70.33,no,no,1.34,1.45,1.23,1.45,538.00,7.47,full scoring
+1800207,3,17.24,no,female,white,not hispanic or latino,18.2847382,112.67,65.33,no,no,0.60,0.84,0.60,0.84,499.00,7.58,full scoring
+1800211,3,17.29,no,female,white,not hispanic or latino,23.4062254,128.00,58.67,no,no,0.12,0.23,0.00,0.12,515.00,9.67,full scoring
+1800212,3,18.18,no,female,black or african american,not hispanic or latino,30.1756729,117.33,68.00,no,no,1.21,1.33,0.36,0.60,497.00,12.31,full scoring
+1800213,3,17.35,no,male,black or african american,not hispanic or latino,22.2043442,123.33,72.00,no,no,0.78,1.12,0.45,0.89,538.00,9.26,full scoring
+1800214,3,17.54,no,male,white,not hispanic or latino,24.7855235,122.00,60.67,no,no,0.00,0.00,0.00,0.00,498.00,6.87,full scoring
+1800215,3,17.85,no,female,white,not hispanic or latino,19.4359094,120.33,70.33,no,no,0.60,0.60,0.60,0.60,400.00,5.10,full scoring
+1800218,3,17.68,no,male,white,not hispanic or latino,34.4002716,124.00,85.00,no,no,4.14,5.15,1.23,2.69,536.00,8.28,full scoring
+1800219,3,17.62,no,male,white,not hispanic or latino,36.6456071,129.67,80.00,no,no,0.15,0.44,0.00,0.44,413.00,5.67,full scoring
+1800222,3,17.24,no,female,white,not hispanic or latino,23.1830341,92.67,51.00,no,no,0.30,0.30,0.30,0.30,593.00,4.25,full scoring
+1800223,3,17.69,no,male,white,not hispanic or latino,26.5082156,120.00,61.33,no,no,2.07,2.61,0.33,1.20,551.00,12.20,full scoring
+1800224,3,17.64,no,female,black or african american,not hispanic or latino,42.6754090,129.67,62.67,yes,yes,0.16,0.16,0.00,0.00,383.00,8.15,full scoring
+1800226,3,17.39,no,male,white,not hispanic or latino,22.3529412,120.33,69.67,no,no,0.00,0.00,0.00,0.00,445.00,4.58,full scoring
+1800230,3,17.51,no,female,white,not hispanic or latino,24.0956752,119.33,66.33,no,no,0.88,0.88,0.75,0.75,480.00,5.00,full scoring
+1800231,3,18.14,no,male,black or african american,not hispanic or latino,25.9982025,121.33,66.33,no,no,1.84,3.40,1.42,3.25,424.00,13.30,full scoring
+1800234,3,17.23,no,male,white,not hispanic or latino,36.2099179,119.00,62.33,no,no,2.59,3.17,1.01,2.30,417.00,6.19,full scoring
+1800236,3,17.87,no,female,black or african american,not hispanic or latino,23.2032151,106.00,66.33,no,no,3.23,3.71,0.96,1.67,502.00,10.76,full scoring
+1800237,3,18.20,no,male,white,not hispanic or latino,25.7676163,118.33,63.33,no,no,0.26,0.39,0.13,0.26,462.00,4.81,full scoring
+1800238,3,18.23,no,female,black or african american,not hispanic or latino,29.5506630,122.00,83.00,no,no,1.52,1.52,1.38,1.38,435.00,8.83,full scoring
+1800239,3,17.87,no,female,white,not hispanic or latino,19.9206234,112.67,68.00,no,no,0.00,0.11,0.00,0.11,566.00,4.56,full scoring
+1800240,3,17.66,no,male,black or african american,not hispanic or latino,21.9120473,125.00,80.00,no,no,0.42,0.42,0.28,0.28,424.00,6.65,full scoring
+1800243,3,17.32,no,female,white,not hispanic or latino,21.1813852,105.00,60.33,no,no,0.24,0.24,0.24,0.24,492.00,5.61,full scoring
+1800246,3,17.94,no,female,black or african american,not hispanic or latino,20.7165347,107.33,61.00,no,no,0.26,0.39,0.13,0.26,464.00,5.43,full scoring
+1800248,3,17.34,no,male,white,not hispanic or latino,21.1861781,124.33,66.00,no,no,0.96,1.12,0.16,0.32,374.00,11.87,full scoring
+1800251,3,17.65,no,female,white,not hispanic or latino,18.0572991,103.33,56.33,no,no,0.11,0.11,0.11,0.11,523.00,9.52,full scoring
+1800253,3,17.70,no,male,white,not hispanic or latino,19.6143251,118.00,50.33,yes,yes,2.79,3.64,1.58,3.03,495.00,8.97,full scoring
+1800254,3,17.85,no,male,white,not hispanic or latino,34.4613374,134.00,66.67,yes,yes,99.13,101.46,90.62,93.78,437.00,21.01,full scoring
+1800257,3,17.71,no,female,white,not hispanic or latino,24.4644392,108.00,67.00,no,no,0.00,0.13,0.00,0.13,471.00,10.32,full scoring
+1800260,3,17.68,no,male,white,not hispanic or latino,22.3875433,105.67,68.67,no,no,0.00,0.00,0.00,0.00,468.00,7.18,full scoring
+1800262,3,16.87,no,male,multiple,not hispanic or latino,23.9296902,112.33,60.33,no,no,1.92,3.25,0.36,2.28,499.00,14.55,full scoring
+1800263,3,18.83,no,female,white,not hispanic or latino,20.6881642,112.00,60.33,no,no,1.44,1.76,0.48,0.96,374.00,7.06,full scoring
+1800264,3,17.52,no,male,white,not hispanic or latino,20.6827452,124.67,60.00,no,no,0.49,0.49,0.37,0.37,492.00,9.39,full scoring
+1800265,3,16.15,no,male,white,not hispanic or latino,38.7475412,114.67,60.33,yes,yes,10.28,11.10,6.50,7.91,508.00,7.20,full scoring
+1800266,3,17.39,no,female,multiple,not hispanic or latino,24.5775148,105.33,58.33,no,no,0.88,1.52,0.38,1.52,475.00,9.73,full scoring
+1800269,3,18.19,no,male,white,not hispanic or latino,21.1024067,113.33,72.33,no,no,6.62,7.27,4.16,5.45,462.00,12.99,full scoring
+1800272,3,17.99,no,male,black or african american,not hispanic or latino,24.4804626,121.00,70.67,no,no,2.42,2.78,1.33,1.69,496.00,5.93,full scoring
+1800273,3,17.69,no,male,black or african american,not hispanic or latino,35.0334554,127.00,75.00,no,no,2.41,2.52,1.15,1.38,523.00,7.57,full scoring
+1800274,3,17.31,no,female,white,not hispanic or latino,23.3588357,131.00,68.33,no,no,0.00,0.00,0.00,0.00,507.00,6.98,full scoring
+1800275,3,17.22,no,female,multiple,not hispanic or latino,19.6302701,116.67,69.00,no,no,0.13,0.27,0.13,0.27,448.00,8.97,full scoring
+1800276,3,17.19,no,female,white,not hispanic or latino,21.8954380,103.33,59.00,no,no,0.11,0.11,0.00,0.00,566.00,2.97,full scoring
+1800278,3,18.69,no,female,white,not hispanic or latino,23.2527959,103.67,61.67,no,no,0.39,0.39,0.26,0.39,457.00,20.48,full scoring
+1800279,3,17.23,no,male,white,not hispanic or latino,21.5872021,121.67,66.00,no,no,0.41,0.41,0.14,0.14,435.00,8.41,full scoring
+1800280,3,17.91,no,male,white,not hispanic or latino,18.1299625,98.67,48.00,no,no,1.26,1.26,1.26,1.26,524.00,8.59,full scoring
+1800282,3,18.12,no,male,black or african american,not hispanic or latino,20.8155395,125.67,78.00,no,no,0.00,0.00,0.00,0.00,533.00,6.19,full scoring
+1800285,3,17.56,no,male,multiple,not hispanic or latino,25.7532094,129.67,72.67,no,no,2.14,2.26,1.19,1.31,504.00,5.12,full scoring
+1800286,3,18.80,no,female,white,not hispanic or latino,21.4004286,118.00,58.33,no,no,0.52,0.65,0.13,0.52,464.00,11.90,full scoring
+1800287,3,17.19,no,male,white,not hispanic or latino,24.7710509,123.00,53.00,no,no,0.30,0.46,0.30,0.46,394.00,6.55,full scoring
+1800288,3,17.74,no,female,black or african american,not hispanic or latino,24.3298123,110.67,66.00,no,no,0.19,0.28,0.09,0.19,642.00,9.81,full scoring
+1800289,3,17.62,no,female,white,not hispanic or latino,20.5021101,108.00,52.00,no,no,0.12,0.12,0.12,0.12,485.00,8.78,full scoring
+1800290,3,17.18,no,female,white,not hispanic or latino,18.6946757,98.33,59.67,no,no,0.00,0.11,0.00,0.11,548.00,4.93,full scoring
+1800294,3,17.25,no,female,black or african american,not hispanic or latino,19.6785625,102.00,64.33,no,no,1.42,1.54,0.83,0.95,507.00,5.21,full scoring
+1800297,3,17.61,no,female,black or african american,not hispanic or latino,37.5227207,129.33,60.33,no,yes,3.39,3.87,2.42,2.90,496.00,9.80,full scoring
+1800298,3,17.91,no,female,white,not hispanic or latino,26.0132253,119.67,65.00,no,no,0.62,0.62,0.31,0.31,388.00,8.35,full scoring
+1800299,3,17.31,no,female,black or african american,hispanic or latino,39.2507804,111.00,59.83,yes,yes,2.35,3.09,0.87,2.10,485.00,9.90,full scoring
+1800301,3,17.16,no,female,white,not hispanic or latino,21.6551611,116.00,60.67,no,no,0.13,0.13,0.13,0.13,460.00,10.30,full scoring
+1800302,3,18.10,no,male,black or african american,not hispanic or latino,24.3297570,122.67,59.83,no,yes,1.06,2.12,0.85,1.90,567.00,12.38,full scoring
+1800303,3,17.05,no,male,white,not hispanic or latino,24.0345039,113.00,54.00,no,no,3.60,5.82,2.63,5.27,433.00,13.72,full scoring
+1800304,3,17.60,no,female,black or african american,not hispanic or latino,36.4028141,120.00,66.67,no,no,0.26,0.26,0.13,0.13,463.00,7.78,full scoring
+1800305,3,18.01,no,male,multiple,not hispanic or latino,27.2993768,111.67,64.00,no,no,2.00,2.10,0.67,1.05,629.00,6.68,full scoring
+1800306,3,17.46,no,female,white,not hispanic or latino,18.8079494,108.67,61.00,no,no,0.00,0.00,0.00,0.00,440.00,10.77,full scoring
+1800307,3,18.14,no,female,black or african american,not hispanic or latino,35.1979116,104.00,68.67,no,no,0.75,0.75,0.25,0.50,479.00,5.14,full scoring
+1800308,3,17.71,no,female,black or african american,not hispanic or latino,25.3256565,116.67,76.00,no,no,0.54,0.67,0.27,0.40,448.00,5.89,full scoring
+1800314,3,17.60,no,female,black or african american,not hispanic or latino,21.8361276,108.67,53.33,no,no,0.12,0.25,0.12,0.25,489.00,9.33,full scoring
+1800315,3,18.51,no,female,black or african american,not hispanic or latino,24.9372853,121.33,62.67,no,no,0.14,0.29,0.14,0.29,420.00,7.43,full scoring
+1800316,3,17.71,no,male,white,not hispanic or latino,27.2331155,129.33,72.33,no,no,1.01,1.01,0.58,0.58,414.00,7.25,full scoring
+1800317,3,17.44,no,male,white,not hispanic or latino,29.9733689,125.67,71.33,no,no,1.37,1.54,0.51,0.86,350.00,9.60,full scoring
+1800318,3,18.17,no,male,black or african american,not hispanic or latino,21.3141480,110.00,61.67,yes,yes,1.24,1.91,0.68,1.58,533.00,11.37,full scoring
+1800322,3,17.42,no,female,white,not hispanic or latino,21.7873175,111.00,56.67,not reported,yes,0.11,0.11,0.11,0.11,522.00,18.05,full scoring
+1800324,3,17.71,no,female,white,not hispanic or latino,20.5905265,119.33,62.33,no,no,0.88,0.88,0.76,0.76,475.00,5.43,full scoring
+1800325,3,17.61,no,male,white,not hispanic or latino,20.2082336,115.33,71.33,no,no,0.00,0.77,0.00,0.77,469.00,16.89,full scoring
+1800326,3,17.01,no,female,black or african american,not hispanic or latino,18.3455485,117.67,57.33,no,no,0.15,0.29,0.15,0.29,413.00,8.28,full scoring
+1800328,3,18.52,no,male,black or african american,not hispanic or latino,28.3413108,124.00,52.00,no,no,1.60,3.35,0.58,2.91,412.00,9.17,full scoring
+1800330,3,17.68,no,male,black or african american,not hispanic or latino,25.6184594,110.00,67.67,not reported,yes,3.68,4.73,2.10,3.41,457.00,9.19,full scoring
+1800332,3,17.45,no,female,black or african american,not hispanic or latino,23.9234364,114.33,56.33,no,no,1.13,1.35,0.68,1.13,532.00,11.05,full scoring
+1800333,3,18.45,no,male,white,not hispanic or latino,31.7916308,132.00,65.33,no,no,0.45,0.90,0.30,0.75,402.00,7.01,full scoring
+1800335,3,17.27,no,male,white,not hispanic or latino,19.8484534,114.67,64.67,no,no,0.29,0.29,0.14,0.29,419.00,6.30,full scoring
+1800336,3,17.77,no,female,black or african american,not hispanic or latino,22.9055057,115.67,66.33,no,no,0.00,0.00,0.00,0.00,504.00,4.17,full scoring
+1800337,3,17.38,no,female,black or african american,not hispanic or latino,21.1103735,131.33,72.33,no,no,0.74,1.12,0.62,0.99,484.00,10.04,full scoring
+1800339,3,17.53,no,male,white,not hispanic or latino,23.2223084,125.33,75.00,no,no,0.95,2.31,0.74,2.31,571.00,11.45,full scoring
+1800341,3,17.60,no,male,black or african american,not hispanic or latino,21.3956489,118.00,60.67,no,no,1.97,3.71,1.27,3.47,518.00,15.41,full scoring
+1800343,3,17.14,no,male,black or african american,not hispanic or latino,21.4726825,120.00,66.00,no,no,0.94,0.94,0.79,0.79,381.00,8.50,full scoring
+1800346,3,17.38,no,female,white,not hispanic or latino,21.6345271,104.00,66.00,no,no,0.25,0.25,0.25,0.25,472.00,3.18,full scoring
+1800350,3,18.58,no,female,black or african american,not hispanic or latino,22.7447706,106.33,64.67,no,no,0.00,0.00,0.00,0.00,438.00,11.10,full scoring
+1800353,3,17.39,no,female,white,not hispanic or latino,23.8866163,118.00,67.00,no,no,0.39,0.39,0.39,0.39,465.00,5.42,full scoring
+1800354,3,18.07,no,male,black or african american,not hispanic or latino,21.9201963,113.00,71.00,no,no,0.13,0.13,0.13,0.13,455.00,14.24,full scoring
+1800355,3,17.83,no,female,black or african american,not hispanic or latino,49.9353976,134.33,78.67,no,no,2.12,2.38,1.06,1.59,453.00,7.55,full scoring
+1800356,3,18.62,no,female,white,not hispanic or latino,20.5395615,100.00,63.33,no,yes,0.25,0.63,0.13,0.51,473.00,8.75,full scoring
+1800358,3,18.22,no,female,white,not hispanic or latino,25.8716863,103.33,53.67,no,no,1.07,1.20,0.67,0.93,450.00,12.00,full scoring
+1800359,3,17.14,no,male,white,not hispanic or latino,24.3670205,137.33,88.00,no,no,1.97,2.67,0.70,1.83,427.00,5.62,full scoring
+1800360,3,17.61,no,male,white,hispanic or latino,22.7634729,111.00,66.33,no,no,3.07,3.47,1.60,2.53,450.00,10.13,full scoring
+1800361,3,17.27,no,female,white,not hispanic or latino,19.0391660,102.00,57.00,no,no,0.00,0.00,0.00,0.00,530.00,7.92,full scoring
+1800363,3,17.85,no,female,black or african american,not hispanic or latino,21.9385084,108.33,67.33,no,no,0.48,0.48,0.48,0.48,495.00,6.42,full scoring
+1800364,3,17.76,no,male,black or african american,not hispanic or latino,35.3842875,128.00,60.00,no,no,19.49,20.18,11.06,12.72,434.00,6.36,full scoring
+1800365,3,18.64,no,female,white,not hispanic or latino,25.6432427,91.67,84.00,not reported,yes,0.14,0.69,0.00,0.55,436.00,12.66,full scoring
+1800366,3,17.83,no,female,white,not hispanic or latino,21.2638821,110.67,56.67,yes,yes,1.20,1.31,1.08,1.20,502.00,7.41,full scoring
+1800367,3,17.27,no,female,white,not hispanic or latino,26.1623674,115.33,64.00,no,no,0.19,0.75,0.19,0.75,318.00,6.60,full scoring
+1800368,3,17.30,no,female,white,not hispanic or latino,20.1631851,109.00,61.33,no,no,1.65,2.61,1.24,2.34,436.00,12.39,full scoring
+1800370,3,17.81,no,female,black or african american,not hispanic or latino,35.5360524,118.33,65.00,no,no,0.38,0.38,0.25,0.25,478.00,4.39,full scoring
+1800373,3,17.68,no,female,white,not hispanic or latino,20.5681532,111.33,55.00,yes,yes,1.37,1.51,0.96,1.23,438.00,15.48,full scoring
+1800375,3,17.71,no,female,black or african american,not hispanic or latino,36.2110389,130.50,75.00,no,no,0.26,0.38,0.13,0.26,470.00,6.64,full scoring
+1800376,3,17.27,no,female,white,not hispanic or latino,22.2532259,99.33,54.00,no,no,0.12,0.12,0.00,0.00,521.00,7.26,full scoring
+1800377,3,17.83,no,female,black or african american,not hispanic or latino,20.6555141,104.67,61.67,no,no,0.12,0.12,0.12,0.12,488.00,7.01,full scoring
+1800378,3,17.59,no,male,white,not hispanic or latino,22.7678989,123.00,53.00,yes,yes,2.26,2.26,1.45,1.61,372.00,5.32,full scoring
+1800379,3,17.87,no,female,white,not hispanic or latino,22.1924545,109.00,65.00,yes,yes,0.79,1.05,0.13,0.52,458.00,7.47,full scoring
+1800380,3,17.06,no,female,black or african american,not hispanic or latino,26.1578429,127.33,77.67,no,no,0.00,0.26,0.00,0.26,456.00,5.26,full scoring
+1800382,3,17.67,no,female,black or african american,not hispanic or latino,24.5798438,116.00,56.33,no,no,0.00,0.39,0.00,0.39,464.00,14.61,full scoring
+1800384,3,18.89,no,male,white,not hispanic or latino,35.8068721,117.33,61.67,no,no,0.40,0.54,0.13,0.54,448.00,11.52,full scoring
+1800385,3,17.96,no,female,white,not hispanic or latino,24.3055461,105.00,58.33,no,no,0.37,0.37,0.37,0.37,491.00,5.62,full scoring
+1800386,3,17.28,no,female,white,not hispanic or latino,21.3924251,106.67,63.67,no,no,0.36,0.36,0.36,0.36,499.00,6.61,full scoring
+1800389,3,17.73,no,female,white,not hispanic or latino,25.2210177,94.00,60.67,no,no,1.95,2.07,1.72,1.84,522.00,5.52,full scoring
+1800391,3,17.17,no,female,white,not hispanic or latino,27.5277144,104.33,63.67,no,no,0.00,0.00,0.00,0.00,396.00,7.27,full scoring
+1800393,3,18.34,no,male,black or african american,not hispanic or latino,20.6602264,122.50,72.33,no,no,2.23,2.37,0.56,0.84,431.00,4.32,full scoring
+1800394,3,17.38,no,female,white,not hispanic or latino,24.9442313,108.33,62.33,no,no,0.23,0.34,0.11,0.23,533.00,6.53,full scoring
+1800396,3,17.69,no,female,black or african american,not hispanic or latino,21.1983647,102.00,68.33,no,no,0.32,0.43,0.22,0.32,558.00,6.13,full scoring
+1800399,3,17.24,no,female,white,not hispanic or latino,30.6103156,110.00,73.67,no,no,0.22,0.33,0.00,0.11,541.00,8.65,full scoring
+1800403,3,17.86,no,male,black or african american,not hispanic or latino,21.7466402,116.33,70.67,no,no,0.24,0.24,0.24,0.24,502.00,9.68,full scoring
+1800407,3,18.06,no,female,white,not hispanic or latino,22.8235462,100.00,56.67,no,yes,0.00,0.00,0.00,0.00,387.00,8.99,full scoring
+1800410,3,17.67,no,female,white,not hispanic or latino,22.4607248,107.00,64.33,no,no,0.25,0.50,0.25,0.50,477.00,6.54,full scoring
+1800411,3,17.74,no,female,black or african american,not hispanic or latino,21.5921657,123.33,66.67,no,no,0.00,0.13,0.00,0.13,467.00,13.75,full scoring
+1800414,3,17.75,no,male,black or african american,not hispanic or latino,28.5585141,127.00,73.67,no,no,0.13,0.13,0.13,0.13,455.00,8.04,full scoring
+1800415,3,17.44,no,male,white,not hispanic or latino,23.0475654,110.33,63.33,no,no,2.78,3.23,2.34,3.01,539.00,11.13,full scoring
+1800416,3,17.21,no,female,black or african american,not hispanic or latino,27.4894329,114.67,68.00,no,no,0.28,0.85,0.28,0.85,424.00,14.15,full scoring
+1800419,3,17.95,no,male,black or african american,not hispanic or latino,20.4905866,109.67,72.67,no,no,1.86,4.01,1.29,3.87,419.00,20.91,full scoring
+1800425,3,17.77,no,male,white,not hispanic or latino,30.9334130,116.33,60.00,no,no,3.82,4.15,2.84,3.60,550.00,11.45,full scoring
+1800426,3,17.18,no,female,white,not hispanic or latino,19.6923077,109.33,59.00,no,no,0.66,0.92,0.13,0.66,457.00,8.53,full scoring
+1800428,3,17.36,no,female,white,not hispanic or latino,38.1687672,117.00,66.33,no,no,0.00,0.15,0.00,0.15,389.00,4.94,full scoring
+1800429,3,17.79,no,male,white,not hispanic or latino,24.7925290,123.67,65.33,no,no,0.61,0.61,0.36,0.36,495.00,4.85,full scoring
+1800430,3,17.70,no,female,white,not hispanic or latino,24.3189279,104.33,61.33,no,no,0.78,0.89,0.45,0.78,539.00,11.47,full scoring
+1800431,3,18.40,no,female,black or african american,not hispanic or latino,21.4111672,106.00,69.67,no,no,0.23,0.34,0.11,0.23,527.00,6.94,full scoring
+1800432,3,17.31,no,female,white,not hispanic or latino,21.5251417,118.00,75.00,no,no,0.23,0.34,0.23,0.34,529.00,10.55,full scoring
+1800433,3,17.93,no,female,black or african american,not hispanic or latino,20.7936679,107.67,59.33,yes,yes,0.14,0.28,0.14,0.28,431.00,5.85,full scoring
+1800434,3,18.40,no,male,black or african american,not hispanic or latino,19.1980655,123.67,68.67,yes,yes,1.04,1.04,0.45,0.60,402.00,6.87,full scoring
+1800435,3,17.65,no,female,white,hispanic or latino,25.9180301,110.33,66.33,no,no,0.13,0.13,0.13,0.13,478.00,9.04,full scoring
+1800436,3,17.73,no,male,black or african american,not hispanic or latino,27.2013842,124.67,60.00,not reported,not reported,1.16,1.45,0.87,1.16,207.00,6.96,full scoring
+1800438,3,17.48,no,male,black or african american,not hispanic or latino,23.2996389,110.00,66.67,no,no,0.33,0.33,0.11,0.11,551.00,6.64,full scoring
+1800439,3,17.69,no,male,white,not hispanic or latino,37.2240908,127.00,61.33,no,no,2.56,4.44,1.48,4.04,446.00,14.80,full scoring
+1800444,3,17.72,no,female,black or african american,not hispanic or latino,23.6421414,114.33,61.67,no,no,0.72,1.81,0.60,1.69,497.00,13.16,full scoring
+1800447,3,17.90,no,male,white,not hispanic or latino,32.2468013,121.67,69.33,no,no,7.48,10.62,3.44,9.58,401.00,29.93,full scoring
+1800448,3,17.32,no,female,black or african american,not hispanic or latino,25.7319783,107.67,64.33,no,no,0.88,1.14,0.88,1.14,475.00,9.22,full scoring
+1800449,3,17.74,no,male,black or african american,not hispanic or latino,29.4999754,131.67,66.33,no,no,1.70,1.96,1.31,1.70,459.00,7.19,full scoring
+1800451,3,18.22,no,female,white,not hispanic or latino,19.4991532,113.33,57.67,no,no,0.13,0.26,0.13,0.26,457.00,6.56,full scoring
+1800452,3,17.67,no,female,white,not hispanic or latino,20.9812465,104.67,67.00,no,no,0.14,0.14,0.14,0.14,415.00,13.45,full scoring
+1800453,3,17.65,no,female,black or african american,not hispanic or latino,34.7404844,159.67,90.67,no,no,0.13,0.52,0.00,0.39,461.00,6.12,full scoring
+1800454,3,17.34,no,male,white,not hispanic or latino,28.9582080,137.67,62.67,no,no,2.13,2.41,1.28,1.84,423.00,7.38,full scoring
+1800456,3,17.70,no,female,black or african american,not hispanic or latino,20.4060810,103.83,57.00,no,no,0.12,0.12,0.12,0.12,483.00,4.22,full scoring
+1800457,3,17.57,no,female,black or african american,not hispanic or latino,31.5656064,109.67,60.33,no,no,0.11,0.23,0.11,0.23,526.00,5.25,full scoring
+1800458,3,18.88,no,female,white,not hispanic or latino,24.3825966,106.67,49.00,no,no,1.40,1.63,0.93,1.51,515.00,13.40,full scoring
+1800459,3,17.36,no,male,black or african american,not hispanic or latino,20.2642660,123.00,81.67,no,no,0.32,0.48,0.32,0.48,372.00,8.23,full scoring
+1800460,3,17.55,no,female,white,not hispanic or latino,21.9686546,110.67,71.33,no,no,0.70,0.81,0.58,0.81,517.00,7.08,full scoring
+1800464,3,17.52,no,female,black or african american,not hispanic or latino,29.4561222,110.33,60.00,no,no,0.13,0.13,0.00,0.00,463.00,5.83,full scoring
+1800466,3,18.94,no,female,multiple,not hispanic or latino,25.7379839,121.33,63.33,no,no,0.34,0.68,0.23,0.57,529.00,7.71,full scoring
+1800467,3,17.73,no,female,black or african american,not hispanic or latino,19.2007512,138.33,79.33,no,no,1.33,1.47,1.03,1.33,407.00,8.11,full scoring
+1800468,3,17.74,no,male,black or african american,not hispanic or latino,28.5046820,125.00,58.00,no,no,0.23,0.23,0.11,0.23,528.00,8.98,full scoring
+1800470,3,17.33,no,male,white,not hispanic or latino,32.7466879,135.33,88.67,no,no,0.19,0.19,0.19,0.19,309.00,13.40,full scoring
+1800471,3,17.73,no,male,white,not hispanic or latino,21.8043595,109.33,51.33,yes,yes,0.24,0.36,0.00,0.12,502.00,7.53,full scoring
+1800473,3,17.69,no,female,white,not hispanic or latino,22.9058467,99.67,61.67,no,no,0.62,0.75,0.25,0.62,483.00,8.32,full scoring
+1800475,3,17.17,no,female,white,not hispanic or latino,24.7747783,101.67,53.67,no,no,0.00,0.00,0.00,0.00,446.00,9.82,full scoring
+1800477,3,18.51,no,male,white,not hispanic or latino,24.4926129,118.67,63.00,no,no,0.12,0.48,0.00,0.36,505.00,5.35,full scoring
+1800479,3,17.18,no,female,white,not hispanic or latino,25.7999293,111.50,68.33,no,no,0.65,0.78,0.52,0.65,464.00,9.70,full scoring
+1800481,3,17.69,no,female,black or african american,not hispanic or latino,35.2979841,118.00,58.67,no,no,1.30,1.43,1.04,1.43,460.00,15.26,full scoring
+1800483,3,17.77,no,female,multiple,not hispanic or latino,36.5956047,114.00,47.67,no,no,1.12,1.60,1.12,1.60,376.00,9.10,full scoring
+1800485,3,17.74,no,female,black or african american,not hispanic or latino,53.5451113,98.67,65.00,no,no,2.86,3.12,1.82,2.34,461.00,7.03,full scoring
+1800487,3,17.40,no,male,white,not hispanic or latino,18.6408759,116.67,78.67,not reported,yes,2.93,4.11,1.17,2.79,409.00,15.26,full scoring
+1800489,3,17.37,no,female,black or african american,not hispanic or latino,23.2936657,106.00,49.33,no,no,0.34,0.34,0.34,0.34,535.00,,sleep/wake only
+1800490,3,17.73,no,female,white,not hispanic or latino,20.3272655,113.00,67.67,no,no,0.13,0.13,0.13,0.13,454.00,6.87,full scoring
+1800491,3,17.43,no,female,white,not hispanic or latino,31.3906227,115.00,52.33,yes,yes,0.36,0.36,0.36,0.36,495.00,8.97,full scoring
+1800493,3,17.10,no,male,white,hispanic or latino,20.9905288,117.33,75.67,no,no,0.35,0.47,0.24,0.35,508.00,8.86,full scoring
+1800494,3,17.68,no,female,black or african american,not hispanic or latino,27.5051653,114.00,73.00,no,no,0.00,0.00,0.00,0.00,464.00,5.82,full scoring
+1800497,3,17.71,no,male,white,not hispanic or latino,20.1590771,113.00,51.33,no,no,1.94,3.06,1.25,2.92,432.00,15.69,full scoring
+1800500,3,18.04,no,male,black or african american,not hispanic or latino,20.5209619,106.00,73.33,no,no,2.17,3.49,1.69,3.25,498.00,12.89,full scoring
+1800502,3,17.73,no,male,white,not hispanic or latino,21.3519481,120.00,56.33,no,no,3.33,3.67,1.33,2.33,360.00,5.00,full scoring
+1800506,3,17.61,no,male,black or african american,not hispanic or latino,20.5635650,110.00,78.67,no,no,0.47,1.07,0.47,1.07,507.00,8.76,full scoring
+1800507,3,18.06,no,male,white,not hispanic or latino,21.9630648,120.67,59.67,no,no,0.00,0.17,0.00,0.17,345.00,10.78,full scoring
+1800509,3,17.71,no,male,black or african american,not hispanic or latino,40.3081320,126.33,58.00,no,no,2.37,4.04,1.11,2.92,431.00,9.33,full scoring
+1800512,3,17.92,no,male,white,not hispanic or latino,24.2120517,121.00,62.33,not reported,yes,3.28,4.19,0.92,2.88,458.00,5.76,full scoring
+1800515,3,17.26,no,female,white,not hispanic or latino,20.4931135,106.00,56.00,no,no,0.00,0.12,0.00,0.12,504.00,7.98,full scoring
+1800520,3,17.65,no,male,black or african american,not hispanic or latino,22.0940998,118.33,71.00,yes,yes,0.14,0.41,0.14,0.41,439.00,12.44,full scoring
+1800521,3,17.72,no,female,black or african american,not hispanic or latino,29.7796106,106.33,56.33,no,no,0.81,1.04,0.35,0.58,519.00,7.05,full scoring
+1800523,3,17.80,no,female,white,not hispanic or latino,19.8503361,111.67,62.33,no,no,2.11,2.34,1.75,1.99,513.00,5.50,full scoring
+1800527,3,17.69,no,female,white,not hispanic or latino,18.1741659,109.67,61.67,no,no,0.00,0.00,0.00,0.00,406.00,5.47,full scoring
+1800528,3,17.33,no,male,white,not hispanic or latino,19.5969589,124.33,59.00,no,no,0.50,0.75,0.50,0.75,480.00,9.88,full scoring
+1800529,3,17.33,no,male,white,not hispanic or latino,25.2916184,120.67,69.33,no,no,3.41,4.02,1.58,2.92,493.00,11.44,full scoring
+1800530,3,17.73,no,female,white,not hispanic or latino,23.2033861,98.67,53.00,no,no,0.84,1.67,0.42,1.53,431.00,14.06,full scoring
+1800531,3,16.92,no,female,white,not hispanic or latino,20.0669832,114.33,75.67,no,no,0.12,0.59,0.00,0.47,511.00,11.04,full scoring
+1800533,3,17.87,no,female,black or african american,not hispanic or latino,20.4929617,110.00,58.33,no,no,0.62,0.75,0.62,0.75,481.00,7.48,full scoring
+1800537,3,17.64,no,female,white,not hispanic or latino,26.7064002,108.00,61.33,no,no,0.70,0.70,0.35,0.59,511.00,6.58,full scoring
+1800540,3,17.49,no,male,black or african american,not hispanic or latino,26.3674655,128.67,50.00,no,no,0.37,0.37,0.37,0.37,489.00,9.45,full scoring
+1800541,3,17.66,no,male,white,not hispanic or latino,26.3474060,116.00,80.33,no,no,0.99,1.38,0.59,0.99,609.00,5.32,full scoring
+1800542,3,18.17,no,female,white,not hispanic or latino,27.0902481,105.33,49.67,no,no,1.95,2.09,1.81,2.09,431.00,13.64,full scoring
+1800543,3,16.87,no,female,white,not hispanic or latino,22.3035798,119.67,49.67,no,no,0.72,0.84,0.36,0.48,501.00,8.74,full scoring
+1800544,3,17.84,no,male,white,not hispanic or latino,22.3378919,112.33,66.67,no,no,0.28,0.56,0.14,0.56,426.00,10.70,full scoring
+1800548,3,18.08,no,female,black or african american,not hispanic or latino,38.3653870,109.17,73.67,yes,yes,0.32,0.64,0.00,0.48,373.00,8.20,full scoring
+1800549,3,17.82,no,male,white,not hispanic or latino,21.8394281,127.33,70.67,no,no,0.62,0.62,0.62,0.62,390.00,6.31,full scoring
+1800551,3,17.80,no,male,white,not hispanic or latino,31.0032938,119.33,65.67,no,no,0.61,0.74,0.25,0.49,489.00,6.63,full scoring
+1800552,3,17.41,no,female,white,not hispanic or latino,26.4631701,103.67,61.33,no,yes,0.16,0.16,0.16,0.16,373.00,7.72,full scoring
+1800553,3,18.43,no,male,white,not hispanic or latino,22.0510490,115.67,79.67,no,no,0.96,2.06,0.69,2.06,437.00,9.34,full scoring
+1800554,3,17.56,no,female,white,not hispanic or latino,24.0370608,101.00,73.33,no,no,0.33,0.33,0.33,0.33,360.00,8.83,full scoring
+1800557,3,18.17,no,female,white,not hispanic or latino,22.3200872,118.00,76.67,no,no,0.12,0.23,0.00,0.23,518.00,9.38,full scoring
+1800558,3,17.29,no,female,white,not hispanic or latino,20.4165384,111.67,71.00,no,no,2.31,3.08,0.39,1.54,467.00,10.66,full scoring
+1800559,3,17.83,no,male,black or african american,not hispanic or latino,25.4289923,119.33,66.33,no,no,1.43,2.08,0.65,1.43,461.00,9.37,full scoring
+1800560,3,17.39,no,female,white,not hispanic or latino,26.6210589,112.00,53.67,no,no,0.23,0.23,0.00,0.00,520.00,3.58,full scoring
+1800561,3,17.05,no,female,white,hispanic or latino,19.0355024,110.00,66.33,no,no,1.39,1.52,1.26,1.39,475.00,7.07,full scoring
+1800564,3,18.58,no,female,black or african american,not hispanic or latino,39.1429599,116.33,80.33,no,no,0.13,0.13,0.13,0.13,447.00,7.92,full scoring
+1800565,3,17.88,no,female,black or african american,not hispanic or latino,23.9229164,99.00,58.33,no,no,1.51,1.62,0.81,1.04,518.00,3.82,full scoring
+1800566,3,18.34,no,male,white,not hispanic or latino,23.0775600,121.67,74.00,no,no,1.86,2.60,1.11,2.47,485.00,11.13,full scoring
+1800567,3,17.15,no,male,white,not hispanic or latino,25.5940340,105.33,41.00,no,no,0.63,0.63,0.50,0.63,476.00,15.13,full scoring
+1800568,3,17.78,no,male,white,not hispanic or latino,26.1364316,115.00,53.00,no,no,0.37,0.37,0.24,0.37,493.00,7.55,full scoring
+1800570,3,18.70,no,male,black or african american,not hispanic or latino,28.3473852,125.67,74.33,yes,yes,1.44,1.83,1.31,1.83,458.00,8.65,full scoring
+1800572,3,18.25,no,male,black or african american,not hispanic or latino,24.8107085,112.67,74.33,no,no,0.00,0.00,0.00,0.00,474.00,6.58,full scoring
+1800574,3,18.23,no,female,black or african american,not hispanic or latino,49.9452740,127.33,74.33,not reported,not reported,1.16,1.16,0.46,0.46,518.00,5.91,full scoring
+1800575,3,18.32,no,male,black or african american,not hispanic or latino,21.0803618,119.67,58.00,no,no,1.31,1.43,0.84,1.08,502.00,4.54,full scoring
+1800576,3,17.63,no,male,black or african american,not hispanic or latino,19.8898541,111.00,61.33,no,yes,0.13,0.13,0.13,0.13,455.00,5.01,full scoring
+1800578,3,17.60,no,female,white,not hispanic or latino,19.8216729,110.00,53.33,no,no,0.50,0.50,0.50,0.50,480.00,6.25,full scoring
+1800579,3,17.67,no,male,white,not hispanic or latino,22.9585441,120.67,60.67,no,no,2.34,3.31,2.07,3.17,435.00,16.14,full scoring
+1800582,3,17.65,no,female,multiple,not hispanic or latino,29.5141734,113.67,78.67,not reported,yes,0.21,0.21,0.00,0.00,561.00,8.02,full scoring
+1800583,3,17.88,no,female,black or african american,not hispanic or latino,26.2808008,117.00,61.00,no,no,0.22,0.34,0.22,0.34,536.00,4.03,full scoring
+1800587,3,17.15,no,female,white,hispanic or latino,20.6783469,114.67,63.67,no,no,0.12,0.36,0.00,0.24,494.00,8.62,full scoring
+1800589,3,17.76,no,female,white,not hispanic or latino,24.0478875,107.50,57.33,no,no,0.98,0.98,0.61,0.86,488.00,8.24,full scoring
+1800595,3,17.82,no,female,black or african american,not hispanic or latino,32.0065329,107.33,59.67,no,no,0.00,0.00,0.00,0.00,404.00,5.94,full scoring
+1800596,3,17.80,no,female,white,not hispanic or latino,18.2569833,105.33,66.67,no,no,0.48,0.48,0.24,0.24,497.00,5.43,full scoring
+1800602,3,17.10,no,male,white,hispanic or latino,21.9672780,109.67,60.67,no,no,1.30,1.30,0.78,0.78,461.00,5.34,full scoring
+1800603,3,18.17,no,male,white,not hispanic or latino,22.0987178,113.33,66.67,no,yes,0.36,0.72,0.12,0.60,501.00,8.50,full scoring
+1800604,3,17.68,no,female,black or african american,not hispanic or latino,29.1121356,120.67,76.67,no,no,0.57,0.72,0.57,0.72,419.00,9.31,full scoring
+1800608,3,17.31,no,female,black or african american,not hispanic or latino,31.5546827,124.33,78.67,no,no,0.66,0.92,0.53,0.79,457.00,3.15,full scoring
+1800609,3,17.72,no,male,black or african american,not hispanic or latino,21.6128626,123.00,72.83,no,no,0.48,0.60,0.12,0.24,503.00,7.75,full scoring
+1800610,3,18.47,no,male,white,not hispanic or latino,20.5673477,103.33,52.00,no,no,0.26,0.26,0.13,0.13,466.00,6.18,full scoring
+1800613,3,18.28,no,female,white,not hispanic or latino,18.9727811,126.33,63.67,no,no,0.00,0.00,0.00,0.00,438.00,6.71,full scoring
+1800616,3,17.20,no,female,white,not hispanic or latino,23.0715413,99.67,63.67,no,no,1.24,1.36,1.24,1.36,531.00,6.55,full scoring
+1800617,3,17.86,no,male,black or african american,not hispanic or latino,37.9089772,130.67,65.33,no,no,1.39,1.39,0.69,0.87,346.00,6.07,full scoring
+1800619,3,17.47,no,male,white,not hispanic or latino,17.8856258,113.33,53.33,not reported,yes,0.00,0.00,0.00,0.00,22.00,19.09,full scoring
+1800620,3,17.62,no,female,white,not hispanic or latino,27.3912508,108.00,61.33,no,no,0.40,0.40,0.40,0.40,453.00,5.30,full scoring
+1800621,3,17.69,no,female,multiple,hispanic or latino,25.6286790,105.33,61.00,no,no,1.11,1.23,0.37,0.86,486.00,16.67,full scoring
+1800624,3,17.13,no,female,white,not hispanic or latino,22.6429415,113.67,71.67,no,no,0.59,0.59,0.59,0.59,304.00,12.43,full scoring
+1800625,3,16.14,no,female,black or african american,not hispanic or latino,20.6257061,95.67,62.33,no,no,0.88,0.88,0.76,0.76,476.00,4.66,full scoring
+1800628,3,18.06,no,male,black or african american,not hispanic or latino,22.6013259,120.33,69.67,yes,yes,0.37,0.49,0.24,0.37,491.00,10.39,full scoring
+1800630,3,17.84,no,male,white,hispanic or latino,28.6695746,124.33,56.33,no,no,2.50,3.30,1.25,2.39,527.00,11.16,full scoring
+1800632,3,18.57,no,female,white,not hispanic or latino,19.6399880,123.33,54.33,no,no,0.00,0.34,0.00,0.34,356.00,12.64,full scoring
+1800633,3,17.72,no,female,white,not hispanic or latino,45.8973371,123.33,78.33,no,no,1.65,1.65,0.41,0.41,437.00,5.90,full scoring
+1800634,3,17.40,no,male,white,not hispanic or latino,33.7408319,128.67,69.00,no,no,1.59,1.59,0.48,0.48,378.00,7.30,full scoring
+1800635,3,17.87,no,male,white,not hispanic or latino,23.9698881,130.33,54.00,no,no,0.80,0.80,0.23,0.23,526.00,7.19,full scoring
+1800637,3,17.28,no,male,white,not hispanic or latino,19.5090743,127.67,73.00,no,no,0.41,0.41,0.41,0.41,437.00,4.94,full scoring
+1800639,3,18.25,no,female,white,not hispanic or latino,23.4045382,113.33,69.00,no,no,,,,,,,unknown
+1800640,3,17.31,no,male,white,not hispanic or latino,23.1249826,109.00,53.33,no,no,1.13,1.38,0.00,0.25,480.00,6.25,full scoring
+1800642,3,18.01,no,male,black or african american,not hispanic or latino,21.3117374,109.33,69.67,no,no,5.26,5.92,1.71,3.95,456.00,12.37,full scoring
+1800643,3,17.24,no,male,white,not hispanic or latino,18.4253014,107.67,63.67,yes,yes,0.95,1.35,0.68,1.22,444.00,7.84,full scoring
+1800649,3,17.35,no,female,white,not hispanic or latino,17.8837249,115.33,58.00,no,no,0.89,1.33,0.77,1.33,542.00,8.75,full scoring
+1800650,3,18.43,no,male,white,not hispanic or latino,22.7137789,118.67,57.00,no,no,0.82,1.05,0.35,0.58,514.00,10.39,full scoring
+1800651,3,17.72,no,female,white,not hispanic or latino,33.9918964,104.33,55.67,no,no,0.11,0.11,0.11,0.11,523.00,6.08,full scoring
+1800654,3,18.00,no,female,black or african american,not hispanic or latino,26.1593773,111.67,65.33,no,no,0.00,0.00,0.00,0.00,277.00,10.18,full scoring
+1800655,3,17.65,no,male,black or african american,not hispanic or latino,23.5408580,128.67,71.00,no,no,1.04,1.30,0.65,1.17,460.00,17.35,full scoring
+1800656,3,18.32,no,female,black or african american,not hispanic or latino,35.4033320,122.33,78.33,yes,yes,0.00,0.00,0.00,0.00,471.00,4.33,full scoring
+1800658,3,17.65,no,female,white,not hispanic or latino,16.7700236,121.33,61.33,no,no,1.04,1.04,0.46,0.58,520.00,8.19,full scoring
+1800659,3,17.24,no,female,white,not hispanic or latino,28.2385073,115.67,67.33,no,no,0.54,1.07,0.13,0.94,447.00,6.04,full scoring
+1800661,3,18.25,no,male,multiple,not hispanic or latino,43.9098313,127.00,68.00,no,no,10.52,11.10,7.63,8.67,519.00,7.86,full scoring
+1800662,3,17.77,no,male,black or african american,not hispanic or latino,34.5031814,112.33,62.50,no,no,3.60,3.71,2.44,2.67,517.00,6.15,full scoring
+1800663,3,18.29,no,male,black or african american,not hispanic or latino,22.7516623,101.00,68.33,yes,yes,0.79,1.75,0.48,1.43,378.00,18.73,full scoring
+1800664,3,17.78,no,female,white,not hispanic or latino,24.5549046,113.67,68.00,no,no,0.71,0.83,0.60,0.71,504.00,6.90,full scoring
+1800665,3,19.56,no,female,white,not hispanic or latino,21.2448769,114.00,60.67,no,no,0.78,0.93,0.16,0.47,387.00,18.29,full scoring
+1800668,3,18.48,no,male,white,not hispanic or latino,24.4452029,119.67,64.00,no,no,1.40,3.18,1.14,3.05,472.00,16.53,full scoring
+1800670,3,18.52,no,female,black or african american,not hispanic or latino,21.4487619,121.67,69.67,no,no,0.47,0.71,0.35,0.59,508.00,19.37,full scoring
+1800673,3,17.94,no,female,black or african american,not hispanic or latino,21.0152206,108.00,61.00,no,no,0.00,0.00,0.00,0.00,486.00,4.44,full scoring
+1800674,3,18.02,no,male,black or african american,not hispanic or latino,24.1888816,110.00,62.67,not reported,not reported,0.12,0.12,0.00,0.00,489.00,8.34,full scoring
+1800676,3,17.57,no,male,white,not hispanic or latino,20.1846438,129.33,55.00,no,no,1.48,1.82,0.80,1.14,528.00,15.68,full scoring
+1800677,3,17.43,no,male,white,not hispanic or latino,23.2746160,121.33,77.00,no,no,0.82,1.64,0.55,1.50,440.00,12.68,full scoring
+1800679,3,17.31,no,male,white,not hispanic or latino,22.9358866,125.00,77.67,no,no,0.48,0.48,0.16,0.32,376.00,14.36,full scoring
+1800682,3,18.32,no,male,white,not hispanic or latino,32.9126220,114.00,60.67,no,no,0.63,0.63,0.25,0.50,479.00,6.01,full scoring
+1800683,3,17.13,no,female,white,not hispanic or latino,29.4467579,101.33,50.33,no,no,0.84,0.84,0.60,0.60,501.00,5.87,full scoring
+1800684,3,17.81,no,male,black or african american,not hispanic or latino,19.6189448,117.33,62.33,yes,yes,0.38,0.63,0.25,0.50,477.00,9.43,full scoring
+1800685,3,17.96,no,male,black or african american,not hispanic or latino,43.1542404,124.33,58.33,no,no,5.79,8.93,1.81,7.48,497.00,18.59,full scoring
+1800686,3,17.15,no,female,white,not hispanic or latino,26.6796875,115.33,58.67,no,no,1.29,1.29,1.19,1.19,603.00,3.88,full scoring
+1800687,3,18.21,no,female,white,not hispanic or latino,21.3868077,107.33,59.67,no,no,1.47,1.96,0.98,1.96,491.00,6.97,full scoring
+1800688,3,17.76,no,male,white,not hispanic or latino,21.6214628,94.00,59.00,no,no,5.08,7.41,3.34,6.10,413.00,10.31,full scoring
+1800689,3,17.65,no,male,black or african american,not hispanic or latino,19.8560421,107.33,65.33,no,yes,0.25,0.63,0.13,0.63,479.00,7.52,full scoring
+1800690,3,17.78,no,male,white,not hispanic or latino,25.6234200,123.33,58.67,no,yes,6.50,6.85,5.31,6.02,508.00,8.27,full scoring
+1800692,3,17.59,no,male,white,not hispanic or latino,21.7221398,101.33,72.33,no,no,0.00,0.00,0.00,0.00,326.00,10.86,full scoring
+1800693,3,18.67,no,male,black or african american,not hispanic or latino,23.4366573,113.67,67.67,no,yes,0.00,0.00,0.00,0.00,521.00,5.18,full scoring
+1800694,3,17.11,no,male,black or african american,not hispanic or latino,26.0350399,121.00,74.33,no,no,0.56,0.93,0.37,0.74,324.00,5.56,full scoring
+1800697,3,17.89,no,female,white,not hispanic or latino,19.0455319,121.33,72.67,no,no,0.00,0.00,0.00,0.00,480.00,12.63,full scoring
+1800698,3,18.37,no,male,black or african american,not hispanic or latino,23.2467004,119.33,67.33,no,no,0.48,0.48,0.24,0.24,252.00,8.57,full scoring
+1800703,3,17.77,no,male,multiple,not hispanic or latino,37.2074902,130.33,72.67,no,no,3.87,4.60,2.42,3.63,248.00,7.74,full scoring
+1800705,3,17.69,no,male,white,not hispanic or latino,16.7335767,120.67,76.67,no,yes,1.51,2.61,1.24,2.48,436.00,16.10,full scoring
+1800707,3,17.89,no,male,white,not hispanic or latino,22.2653089,131.00,74.67,no,no,2.38,3.25,0.50,1.75,480.00,11.38,full scoring
+1800709,3,17.20,no,male,white,not hispanic or latino,21.5871052,100.67,51.33,no,no,13.32,14.35,9.96,12.03,464.00,12.54,full scoring
+1800711,3,17.19,no,male,white,not hispanic or latino,25.0995016,110.67,64.67,no,no,0.62,1.61,0.49,1.48,485.00,6.80,full scoring
+1800712,3,17.90,no,male,white,hispanic or latino,45.6774136,113.33,76.67,no,no,4.78,5.51,0.58,1.74,414.00,6.96,full scoring
+1800713,3,17.12,no,male,black or african american,not hispanic or latino,29.4544733,115.00,58.00,no,no,0.58,0.81,0.23,0.46,517.00,6.96,full scoring
+1800714,3,18.29,no,male,black or african american,not hispanic or latino,24.6795529,111.33,63.00,no,no,1.37,3.77,0.34,3.26,350.00,21.26,full scoring
+1800716,3,17.41,no,male,white,not hispanic or latino,18.1851246,102.33,63.33,no,no,1.46,1.70,0.49,0.85,493.00,3.41,full scoring
+1800720,3,18.08,no,male,black or african american,not hispanic or latino,22.3203058,117.67,67.33,no,no,4.82,5.41,1.76,2.59,510.00,9.18,full scoring
+1800721,3,17.20,no,male,white,not hispanic or latino,21.6092973,116.33,79.33,no,no,0.31,0.62,0.31,0.62,579.00,8.19,full scoring
+1800722,3,16.91,no,female,white,not hispanic or latino,38.5270534,103.67,63.00,no,no,0.12,0.60,0.00,0.48,504.00,11.19,full scoring
+1800723,3,17.90,no,female,asian,not hispanic or latino,18.1954828,107.33,64.50,no,no,0.41,0.41,0.41,0.41,441.00,5.17,full scoring
+1800724,3,18.51,no,male,white,not hispanic or latino,21.0955944,113.00,57.33,no,no,0.94,1.50,0.75,1.50,320.00,9.94,full scoring
+1800725,3,17.19,no,male,white,not hispanic or latino,19.8095627,107.00,62.33,no,no,1.80,3.04,0.55,2.35,434.00,16.87,full scoring
+1800726,3,17.09,no,male,white,not hispanic or latino,18.4903510,109.67,57.67,no,no,0.81,0.81,0.67,0.67,447.00,9.80,full scoring
+1800727,3,17.68,no,female,black or african american,not hispanic or latino,22.8712833,120.67,74.67,no,no,1.56,1.76,0.20,0.59,307.00,14.07,full scoring
+1800729,3,18.21,no,female,black or african american,not hispanic or latino,25.7054352,107.83,66.33,no,no,0.25,0.25,0.00,0.00,486.00,9.26,full scoring
+1800730,3,18.05,no,male,black or african american,not hispanic or latino,24.6204082,115.33,64.67,no,no,0.83,1.18,0.12,0.94,508.00,10.16,full scoring
+1800731,3,17.61,no,female,multiple,not hispanic or latino,21.2351481,120.67,56.33,no,no,0.00,0.00,0.00,0.00,315.00,12.38,full scoring
+1800732,3,17.57,no,female,white,not hispanic or latino,19.7606958,110.00,75.00,no,no,0.72,0.72,0.60,0.72,499.00,9.38,full scoring
+1800733,3,17.40,no,male,white,not hispanic or latino,25.8799091,111.33,53.00,no,no,4.41,4.41,2.50,2.62,503.00,8.35,full scoring
+1800734,3,17.79,no,male,white,not hispanic or latino,25.7370572,118.67,79.00,no,no,0.28,0.69,0.28,0.69,433.00,7.07,full scoring
+1800735,3,17.61,no,female,black or african american,not hispanic or latino,34.0765611,109.67,69.67,no,no,1.89,1.89,1.31,1.31,413.00,5.81,full scoring
+1800736,3,17.15,no,male,white,not hispanic or latino,28.7267877,129.00,66.33,yes,yes,1.09,1.22,0.54,0.81,442.00,9.37,full scoring
+1800738,3,17.82,no,female,white,not hispanic or latino,23.3976125,113.00,63.33,no,no,0.28,0.28,0.28,0.28,434.00,8.85,full scoring
+1800741,3,17.93,no,male,white,not hispanic or latino,23.9177514,126.33,49.33,no,no,0.74,0.86,0.49,0.61,488.00,10.20,full scoring
+1800742,3,18.24,no,male,black or african american,not hispanic or latino,43.4523617,134.00,73.33,no,no,1.03,1.24,0.41,0.62,291.00,4.54,full scoring
+1800744,3,17.21,no,male,multiple,not hispanic or latino,22.5229004,138.33,81.67,no,no,0.12,0.37,0.00,0.25,489.00,6.99,full scoring
+1800746,3,17.52,no,female,black or african american,not hispanic or latino,18.5808755,108.67,59.33,no,no,0.00,0.23,0.00,0.23,515.00,8.50,full scoring
+1800748,3,17.74,no,female,white,not hispanic or latino,24.7844349,119.67,72.00,no,no,1.10,1.10,1.10,1.10,328.00,6.95,full scoring
+1800749,3,17.36,no,male,white,not hispanic or latino,26.3238971,126.00,70.67,no,no,0.13,0.54,0.00,0.40,445.00,5.12,full scoring
+1800750,3,17.19,no,female,white,not hispanic or latino,25.5611922,105.67,52.00,no,no,0.75,0.75,0.25,0.25,477.00,8.43,full scoring
+1800752,3,17.66,no,male,black or african american,not hispanic or latino,36.6794616,140.00,77.67,no,no,2.09,2.09,1.12,1.53,430.00,5.44,full scoring
+1800758,3,17.68,no,female,black or african american,not hispanic or latino,26.8688265,110.67,56.67,no,no,0.59,0.59,0.35,0.35,508.00,7.80,full scoring
+1800759,3,17.70,no,female,white,hispanic or latino,19.5668615,109.67,47.00,no,no,0.00,0.00,0.00,0.00,461.00,9.89,full scoring
+1800761,3,18.11,no,male,white,not hispanic or latino,20.7167132,105.00,66.00,no,no,2.08,3.12,1.56,2.86,462.00,11.82,full scoring
+1800764,3,17.27,no,male,white,not hispanic or latino,20.3791684,129.33,64.00,yes,yes,0.77,1.92,0.77,1.92,313.00,17.83,full scoring
+1800765,3,17.39,no,male,white,not hispanic or latino,24.7597006,122.00,72.67,no,no,0.68,0.85,0.17,0.51,351.00,11.45,full scoring
+1800766,3,18.19,no,female,multiple,not hispanic or latino,18.1006551,112.67,68.17,no,no,0.12,0.23,0.12,0.23,516.00,11.86,full scoring
+1800767,3,17.63,no,male,white,not hispanic or latino,21.3555981,124.00,84.33,no,no,0.38,0.50,0.13,0.25,479.00,3.38,full scoring
+1800770,3,17.91,no,male,white,not hispanic or latino,18.0925642,116.00,53.67,no,no,0.78,0.78,0.78,0.78,462.00,8.31,full scoring
+1800772,3,17.77,no,male,white,not hispanic or latino,20.4690128,106.33,75.67,no,no,0.00,0.36,0.00,0.36,494.00,6.80,full scoring
+1800773,3,17.72,no,female,black or african american,not hispanic or latino,36.6744296,102.67,54.33,no,yes,3.72,3.72,2.39,2.39,452.00,7.83,full scoring
+1800774,3,17.69,no,female,white,not hispanic or latino,23.6597122,115.33,66.67,no,no,2.66,3.38,1.93,2.78,497.00,10.26,full scoring
+1800775,3,17.63,no,male,black or african american,not hispanic or latino,22.5757539,120.33,61.00,no,no,1.55,1.88,0.77,1.22,542.00,7.08,full scoring
+1800777,3,17.83,no,female,white,not hispanic or latino,22.9515955,99.67,51.67,no,no,0.00,0.00,0.00,0.00,450.00,8.13,full scoring
+1800778,3,18.85,no,female,black or african american,not hispanic or latino,33.3766008,111.67,60.00,no,no,0.24,0.24,0.24,0.24,504.00,8.33,full scoring
+1800781,3,17.56,no,male,black or african american,not hispanic or latino,25.2595184,117.67,55.33,no,no,1.80,1.92,1.32,1.56,501.00,10.18,full scoring
+1800782,3,17.51,no,male,white,not hispanic or latino,23.1568992,128.00,73.33,no,no,0.97,1.21,0.00,0.49,494.00,10.20,full scoring
+1800783,3,17.63,no,female,black or african american,not hispanic or latino,20.8275404,107.00,62.67,no,no,0.33,0.33,0.22,0.22,543.00,4.86,full scoring
+1800784,3,17.33,no,female,white,not hispanic or latino,21.4668975,115.33,60.67,no,no,0.43,0.43,0.43,0.43,420.00,6.00,full scoring
+1800786,3,17.43,no,male,white,not hispanic or latino,24.8635642,108.00,58.00,yes,yes,0.60,0.72,0.24,0.36,502.00,10.16,full scoring
+1800788,3,18.80,no,male,black or african american,not hispanic or latino,23.3893063,123.67,80.00,no,no,1.41,1.41,0.60,0.81,596.00,5.84,full scoring
+1800791,3,18.01,no,female,black or african american,not hispanic or latino,23.6145722,103.50,68.00,no,no,0.49,0.49,0.24,0.37,493.00,14.60,full scoring
+1800792,3,17.47,no,male,white,not hispanic or latino,31.6739325,119.00,60.00,no,no,0.34,0.46,0.34,0.46,525.00,5.60,full scoring
+1800793,3,17.34,no,male,white,not hispanic or latino,25.5948144,131.67,56.67,no,no,1.16,1.63,0.47,1.28,516.00,6.28,full scoring
+1800795,3,17.26,no,male,multiple,not hispanic or latino,18.6365353,106.67,64.00,no,no,1.00,1.38,0.38,0.75,479.00,6.76,full scoring
+1800796,3,18.26,no,male,black or african american,not hispanic or latino,18.9226198,125.33,82.00,no,no,0.42,0.56,0.42,0.56,430.00,5.02,full scoring
+1800798,3,17.87,no,female,black or african american,not hispanic or latino,19.7676681,109.00,68.67,no,no,0.00,0.00,0.00,0.00,531.00,6.44,full scoring
+1800799,3,17.72,no,male,black or african american,not hispanic or latino,19.5918367,118.00,65.67,no,no,0.45,0.67,0.22,0.45,267.00,19.55,full scoring
+1800800,3,17.79,no,female,black or african american,not hispanic or latino,24.0769613,116.33,59.00,no,no,0.14,0.14,0.14,0.14,436.00,9.36,full scoring
+1800801,3,17.75,no,male,black or african american,not hispanic or latino,40.8424708,126.33,69.67,no,no,3.25,3.42,1.71,2.22,351.00,7.69,full scoring
+1800802,3,18.37,no,male,black or african american,not hispanic or latino,20.5425681,118.00,53.67,no,no,0.69,0.69,0.69,0.69,434.00,9.68,full scoring
+1800803,3,17.35,no,male,black or african american,not hispanic or latino,20.3944037,107.00,68.67,no,no,1.18,1.18,0.86,0.86,560.00,6.32,full scoring
+1800804,3,17.67,no,female,black or african american,not hispanic or latino,19.5701184,105.00,63.67,no,no,0.11,0.11,0.00,0.11,532.00,12.52,full scoring
+1800805,3,17.83,no,female,black or african american,not hispanic or latino,30.1966456,104.00,71.67,no,no,1.29,1.29,0.55,0.92,326.00,4.23,full scoring
+1800806,3,17.68,no,female,white,not hispanic or latino,24.6231442,108.67,61.33,no,no,0.14,0.14,0.00,0.00,431.00,6.40,full scoring
+1800807,3,18.19,no,male,white,not hispanic or latino,22.2449615,113.67,59.33,yes,yes,1.94,4.33,0.60,3.73,402.00,13.13,full scoring
+1800809,3,18.60,no,male,white,not hispanic or latino,35.4097403,117.67,76.00,not reported,yes,1.33,1.62,1.03,1.33,407.00,7.67,full scoring
+1800810,3,17.24,no,male,multiple,not hispanic or latino,26.0543367,127.33,59.33,no,no,3.88,4.88,1.58,4.02,418.00,17.08,full scoring
+1800811,3,18.17,no,male,white,not hispanic or latino,21.6922537,116.33,63.00,no,no,0.28,0.28,0.14,0.14,435.00,7.31,full scoring
+1800813,3,18.09,no,female,black or african american,not hispanic or latino,21.9748160,113.67,65.00,no,no,0.29,0.43,0.29,0.43,416.00,7.93,full scoring
+1800814,3,18.12,no,male,black or african american,hispanic or latino,20.6084633,112.33,60.00,yes,yes,0.13,0.13,0.00,0.00,476.00,6.30,full scoring
+1800815,3,17.68,no,male,white,not hispanic or latino,18.4397764,96.00,48.67,no,no,0.20,0.31,0.00,0.20,587.00,6.13,full scoring
+1800816,3,17.80,no,female,multiple,hispanic or latino,24.5228315,109.00,69.00,no,no,0.22,0.22,0.22,0.22,557.00,4.31,full scoring
+1800819,3,17.33,no,male,white,not hispanic or latino,29.0235066,118.67,78.00,no,no,3.11,3.50,1.04,1.94,463.00,6.61,full scoring
+1800820,3,18.44,no,female,black or african american,not hispanic or latino,31.5262721,116.67,75.00,no,no,0.00,0.00,0.00,0.00,417.00,5.47,full scoring
+1800821,3,17.70,no,female,black or african american,not hispanic or latino,25.7865907,100.00,66.67,no,no,0.44,0.58,0.29,0.44,412.00,12.96,full scoring
+1800822,3,17.47,no,female,white,not hispanic or latino,19.8493970,102.00,56.00,no,no,2.12,2.43,1.48,2.12,567.00,4.13,full scoring
+1800823,3,17.51,no,male,white,not hispanic or latino,34.6276391,126.67,65.00,yes,yes,3.58,6.90,1.59,5.84,452.00,15.93,full scoring
+1800825,3,17.96,no,female,white,not hispanic or latino,30.2343750,114.83,62.00,no,no,2.57,2.78,0.82,1.54,583.00,6.07,full scoring
+1800828,3,17.38,no,male,white,not hispanic or latino,18.7446990,110.33,60.00,no,no,1.52,1.78,0.89,1.40,473.00,12.18,full scoring
+1800831,3,17.81,no,female,white,not hispanic or latino,27.0630202,127.00,82.00,no,no,2.94,4.31,0.59,2.75,306.00,15.10,full scoring
+1800834,3,17.74,no,female,white,not hispanic or latino,22.8056110,117.00,72.00,no,no,0.00,0.00,0.00,0.00,434.00,8.16,full scoring
+1800838,3,17.54,no,female,white,not hispanic or latino,27.9457078,110.33,55.00,no,no,0.69,1.24,0.28,1.10,435.00,7.86,full scoring
+1800840,3,18.29,no,female,white,not hispanic or latino,24.7277168,108.67,57.67,no,no,1.48,1.48,0.40,0.67,445.00,6.47,full scoring
+1800841,3,18.03,no,female,black or african american,not hispanic or latino,34.2725473,126.33,65.67,no,no,2.88,2.88,1.55,1.77,542.00,5.31,full scoring
+1800842,3,17.56,no,male,white,not hispanic or latino,26.0874526,117.33,76.67,no,no,,,,,,,unknown
+1800843,3,17.90,no,female,white,not hispanic or latino,18.9118391,111.33,68.67,no,no,0.24,0.48,0.00,0.24,503.00,11.57,full scoring
+1800844,3,17.63,no,female,white,not hispanic or latino,25.0432198,99.33,52.67,no,no,0.00,0.00,0.00,0.00,398.00,1.81,full scoring
+1800845,3,17.60,no,male,multiple,not hispanic or latino,23.0494832,123.00,61.33,no,no,0.30,0.76,0.00,0.61,396.00,10.76,full scoring
+1800855,3,17.23,no,male,white,not hispanic or latino,20.3875783,107.33,51.00,no,no,1.58,2.31,1.16,2.21,571.00,8.30,full scoring
+1800856,3,17.86,no,male,white,not hispanic or latino,25.1480095,108.67,55.00,no,no,0.00,0.00,0.00,0.00,390.00,4.15,full scoring
+1800857,3,17.79,no,male,black or african american,not hispanic or latino,24.5396478,118.33,70.67,yes,yes,0.69,0.83,0.69,0.83,434.00,10.09,full scoring
+1800858,3,18.46,no,female,white,not hispanic or latino,20.9252051,98.33,65.00,no,no,0.30,0.30,0.15,0.15,405.00,3.70,full scoring
+1800859,3,17.48,no,female,black or african american,not hispanic or latino,25.6407605,101.00,60.00,no,no,0.51,0.76,0.25,0.51,474.00,6.96,full scoring
+1800860,3,16.17,no,male,black or african american,not hispanic or latino,19.5384731,125.33,68.00,no,no,0.55,0.69,0.28,0.55,435.00,6.90,full scoring
+1800861,3,18.50,no,male,white,not hispanic or latino,28.4293263,121.33,72.00,no,no,13.76,14.73,11.72,12.90,558.00,9.14,full scoring
+1800862,3,17.77,no,female,white,not hispanic or latino,21.7172277,109.67,39.00,no,no,0.90,0.90,0.90,0.90,468.00,7.31,full scoring
+1800863,3,17.14,no,female,black or african american,not hispanic or latino,26.7968750,115.67,63.00,no,no,0.27,0.27,0.13,0.13,447.00,5.64,full scoring
+1800867,3,17.64,no,female,white,not hispanic or latino,18.9382903,107.33,66.00,no,no,0.23,0.23,0.11,0.23,528.00,7.39,full scoring
+1800868,3,18.54,no,female,white,not hispanic or latino,38.4409732,113.67,72.00,no,no,15.95,16.62,11.35,12.70,444.00,8.65,full scoring
+1800869,3,18.20,no,male,black or african american,not hispanic or latino,29.4337153,129.67,79.00,no,no,5.84,7.47,2.57,4.79,514.00,7.59,full scoring
+1800870,3,17.16,no,male,white,not hispanic or latino,29.7567521,116.33,63.67,no,no,2.28,2.85,1.57,2.71,421.00,10.97,full scoring
+1800872,3,17.29,no,female,white,not hispanic or latino,31.9215321,128.33,81.33,no,no,1.54,1.54,0.96,0.96,311.00,5.59,full scoring
+1800873,3,17.84,no,male,black or african american,not hispanic or latino,29.9623602,121.00,84.00,no,no,18.24,26.16,8.81,22.39,477.00,30.94,full scoring
+1800874,3,17.96,no,male,white,not hispanic or latino,19.6959435,106.67,60.33,yes,yes,2.32,2.99,1.33,2.10,542.00,8.41,full scoring
+1800877,3,17.91,no,female,white,not hispanic or latino,20.5949647,99.67,59.00,no,no,1.01,1.01,0.87,0.87,414.00,3.48,full scoring
+1800878,3,17.36,no,female,white,not hispanic or latino,22.3542075,131.67,79.67,no,no,0.49,0.62,0.49,0.62,487.00,9.61,full scoring
+1800879,3,18.32,no,male,white,not hispanic or latino,29.2611924,120.67,66.00,no,no,1.88,2.91,0.85,2.22,351.00,11.45,full scoring
+1800880,3,17.11,no,male,white,not hispanic or latino,26.5970871,115.33,66.33,no,no,0.12,0.36,0.12,0.36,494.00,7.53,full scoring
+1800882,3,17.70,no,male,black or african american,not hispanic or latino,17.6302833,117.67,76.33,no,no,0.78,0.78,0.26,0.52,459.00,8.37,full scoring
+1800884,3,17.76,no,male,white,not hispanic or latino,22.8664221,115.33,59.67,no,no,0.24,0.24,0.24,0.24,500.00,5.04,full scoring
+1800885,3,17.57,no,male,white,not hispanic or latino,34.5690681,128.33,63.33,no,no,0.57,0.72,0.29,0.43,419.00,8.74,full scoring
+1800886,3,17.72,no,male,white,not hispanic or latino,22.9560316,105.00,66.67,no,no,2.49,2.61,1.12,1.62,482.00,6.10,full scoring
+1800891,3,17.63,no,male,black or african american,not hispanic or latino,31.8948395,121.00,77.33,not reported,not reported,0.12,0.60,0.12,0.60,499.00,12.63,full scoring
+1800892,3,17.68,no,male,black or african american,not hispanic or latino,21.7778812,105.17,52.33,no,no,0.66,0.66,0.22,0.55,547.00,12.29,full scoring
+1800893,3,17.34,no,female,white,not hispanic or latino,23.1738662,114.33,64.67,no,no,0.47,0.47,0.47,0.47,511.00,7.63,full scoring
+1800895,3,17.14,no,male,black or african american,not hispanic or latino,20.3696711,119.00,58.67,yes,yes,2.74,5.36,1.55,4.40,504.00,12.02,full scoring
+1800896,3,17.82,no,male,white,not hispanic or latino,33.0686915,117.00,60.33,no,yes,11.82,13.88,7.19,10.54,467.00,12.59,full scoring
+1800899,3,18.02,no,male,white,not hispanic or latino,29.9142301,123.67,73.00,no,no,2.27,3.03,1.39,2.65,475.00,5.56,full scoring
+1800900,3,17.88,no,male,white,not hispanic or latino,23.6030815,113.67,63.00,no,no,1.48,1.48,1.14,1.25,527.00,8.77,full scoring
+1800901,3,17.46,no,female,black or african american,not hispanic or latino,20.1901807,114.67,67.00,no,no,0.21,0.63,0.10,0.52,574.00,7.32,full scoring
+1800902,3,17.81,no,male,white,not hispanic or latino,22.6346763,115.00,51.00,no,no,1.55,1.71,0.62,1.24,387.00,7.60,full scoring
+1800903,3,17.69,no,male,white,not hispanic or latino,22.3448255,129.67,75.00,no,no,0.26,0.26,0.13,0.13,470.00,8.94,full scoring
+1800904,3,17.79,no,male,black or african american,not hispanic or latino,22.1563938,114.00,59.33,yes,yes,0.62,1.03,0.31,0.93,580.00,13.14,full scoring
+1800905,3,17.72,no,male,white,not hispanic or latino,25.3527827,114.67,64.00,no,no,3.41,4.41,1.99,3.41,422.00,12.65,full scoring
+1800906,3,17.74,no,male,black or african american,not hispanic or latino,23.6266012,116.17,57.67,no,no,0.12,0.12,0.12,0.12,501.00,4.43,full scoring
